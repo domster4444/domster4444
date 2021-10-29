@@ -2,11 +2,11 @@
   <h1 align="center"><b>Hi there, I'm Kshitiz <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/juliaundeutsch"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
-<a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
-<a href="https://twitter.com/YuriDevAT"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://hashnode.com/@YuriDevAT"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp;
+<a href="https://codepen.io/"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
+<a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://hashnode.com/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp;
 </p>
 <br />
 
@@ -19,15 +19,15 @@
 <p align="center">
   <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
   <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
- <a href="https://github.com/YuriDevAT/sos-animals">
+ <a href="https://google.com">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
 </a>
-  <a href="https://github.com/YuriDevAT/smart-shopping-list">
+  <a href="https://google.com">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
 </a>
   <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
   <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
-  <a href="https://github.com/YuriDevAT/nikki-my-diary">
+  <a href="https://google.com">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
 </a>
 <a href="https://github.com/YuriDevAT/instagram-clone">
@@ -42,14 +42,14 @@
 Timezone: Europe/Vienna (CEST)
 </p>
 <br />
-<p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon -  July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
+<p>In my latest project, I created an <a href="https://google.com">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Nepal when people reporting them via this app. I created this project to participate in my first hackathon -  July 2018. 🏆 This project was one of the Runner Up Winners. 🥳</p>
 
 :muscle: I am currently helping others to get into tech too by creating content using Twitter.<br />
 <!--:eyes: I’m currently learning ... TypeScript <br />
 :raising_hand: I’m looking to collaborate with ... someone who is interested in art / music or helping people /environment <br />
 :dizzy_face: I’m looking for help with ... TypeScript<br />-->
 💬 Ask me about anything related to... my content. I am happy to help.<br />
-:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I am now a selftaught developer working in Vienna. <br />
+:ghost: Fun fact: ... I studied CSIT and Japanese studies, but I am now a selftaught developer working in Nepal. <br />
 
 <br />
 <br />
@@ -87,9 +87,9 @@ Timezone: Europe/Vienna (CEST)
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Nikki - Online Journal App](https://yuridevat.hashnode.dev/nikki-online-journal-app)
-- [SOS Animals App. A project for the Clerk x Hashnode Hackathon](https://yuridevat.hashnode.dev/sos-animals-hackathon-project)
-- [2 ways to overcome deployment problems with React on Netlify](https://dev.to/yuridevat/2-ways-to-overcome-deployment-problems-with-react-on-netlify-4l5p)
-- [How to add styling to an active link in NextJS ](https://dev.to/yuridevat/how-to-add-styling-to-an-active-link-in-nextjs-593e)
-- [Why to choose NextJS for future projects](https://dev.to/yuridevat/why-to-choose-nextjs-for-future-projects-4k8o)
+- [ - Online Journal App](https://google.com)
+- [SOS Animals App. A project for the Clerk x Hashnode Hackathon](https://google.com)
+- [2 ways to overcome deployment problems with React on Netlify](https://google.com)
+- [How to add styling to an active link in NextJS ](https://google.com)
+- [Why to choose NextJS for future projects](https://google.com)
 <!-- BLOG-POST-LIST:END -->
