@@ -30,7 +30,7 @@
   <a href="https://google.com">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
 </a>
-<a href="https://github.com/YuriDevAT/instagram-clone">
+<a href="https://github.com/">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
 </a>
 </p>
