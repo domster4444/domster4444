@@ -17,15 +17,21 @@
 <br />
 
 <p align="center">
-
-<a href="https://www.hexgrade.com" target="_blank">
-  <img width="400" src="https://i.imgur.com/6jv7dNw.jpg" /> <br/>
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=domster4444&repo=portfolio-client&theme=tokyonight" />
+  <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
+  <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
+ <a href="https://google.com">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
 </a>
-  
-<a href="https://www.hexgrade.com" target="_blank">
-  <img width="400" src="https://i.imgur.com/6jv7dNw.jpg" />
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=domster4444&repo=portfolio-client&theme=tokyonight" />
+  <a href="https://google.com">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
+</a>
+  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
+  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
+  <a href="https://google.com">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
+</a>
+<a href="https://github.com/YuriDevAT/instagram-clone">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
 </a>
 </p>
 
