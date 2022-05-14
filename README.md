@@ -4,42 +4,33 @@
 <p align="center">
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
-<a href="https://codepen.io/"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
+
 <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://hashnode.com/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp;
+
 </p>
 <br />
 
-<p>Enthusiastic Software Engineer since 2020 using ReactJS, Angular and Java Spring Boot. a11y minded. Scrum & Agile inspired.</p>
+<p>Enthusiastic MERN Developer since 2017 using ReactJS, NodeJs, MongoDb and ExpressJs. A11y minded & industrious .</p>
 <br />
 
 <h2 align="center">My favorite projects 💻</h2>
 <br />
 
 <p align="center">
-  <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
-  <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
- <a href="https://google.com">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
-</a>
-  <a href="https://google.com">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
-</a>
-  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
-  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
-  <a href="https://google.com">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
-</a>
-<a href="https://github.com/">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
-</a>
+  
+  
+  <img width="400" src="https://i.imgur.com/6jv7dNw.jpg" />
+  <img width="400" src="https://i.imgur.com/MuJX5uF_d.webp?maxwidth=760&fidelity=grand" />
+ <a href="https://www.hexgrade.com">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=domster4444&repo=portfolio-client&theme=tokyonight" />
+
 </p>
 
 <br />
 
 <h2 align="center">About me 😇</h2>
 <p align="center">
-Timezone: Europe/Vienna (CEST)
+Timezone: Nepal (GMT+5:45)
 </p>
 <br />
 <p>In my latest project, I created an <a href="https://google.com">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Nepal when people reporting them via this app. I created this project to participate in my first hackathon -  July 2018. 🏆 This project was one of the Runner Up Winners. 🥳</p>
@@ -64,7 +55,7 @@ Timezone: Europe/Vienna (CEST)
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
 <!--<a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/nextjs.png" alt="nextjs" width="40" height="40"/> </a>-->
 <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />
+<img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github.png" />
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  
 <!--<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>-->
    </p>
@@ -84,12 +75,12 @@ Timezone: Europe/Vienna (CEST)
 
 ---
 
-📕 **Latest Blog Posts**
+📝 **Contacts**
 
 <!-- BLOG-POST-LIST:START -->
-- [ - Online Journal App](https://google.com)
-- [SOS Animals App. A project for the Clerk x Hashnode Hackathon](https://google.com)
-- [2 ways to overcome deployment problems with React on Netlify](https://google.com)
-- [How to add styling to an active link in NextJS ](https://google.com)
-- [Why to choose NextJS for future projects](https://google.com)
-<!-- BLOG-POST-LIST:END -->
+- [Gmail -kshitiz.shah@deerwalk.edu.np ]
+- [Facebook](https://www.facebook.com/ks.hitiz.735/)
+- [Instagram](https://www.instagram.com/kshitiz77777777/)
+
+
+  <!-- BLOG-POST-LIST:END -->
