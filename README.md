@@ -18,10 +18,13 @@
 
 <p align="center">
 
-  
+<a href="https://www.hexgrade.com" target="_blank">
   <img width="400" src="https://i.imgur.com/6jv7dNw.jpg" />
-     <a href="https://www.hexgrade.com">
-
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=domster4444&repo=portfolio-client&theme=tokyonight" />
+</a>
+  
+<a href="https://www.hexgrade.com" target="_blank">
+  <img width="400" src="https://i.imgur.com/6jv7dNw.jpg" />
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=domster4444&repo=portfolio-client&theme=tokyonight" />
 </a>
 </p>
