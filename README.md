@@ -20,7 +20,7 @@
 
 <!--  projects starts here   --> 
   
-  =============================================================
+<!--   ============================================================= -->
   <!-- project 1 image  -->
   <a href="https://hexgrade.com">
   <img width="400" src="https://i.imgur.com/qnAkGPJ.png" />
@@ -41,8 +41,8 @@
    <a href="https://blackkshitiz.netlify.com">
   <img  align="" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=BLACK-PORTFOLIO&theme=onedark" />
   </a>
-  =================================================================
-  =================================================================
+<!--   ================================================================= -->
+<!--   ================================================================= -->
   
   
   <!--  project 3 image -->
@@ -70,9 +70,7 @@
   </a>
   
   
-  ======================================================================================================
-  <!--  repo readmeImgGeneratorUrl  https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=BLACK-PORTFOLIO&theme=onedark  -->
-
+<!--   ====================================================================================================== -->
 
   
   
