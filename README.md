@@ -51,7 +51,7 @@
   </a>
   
  
- 
+<!--  project 4 image  -->
   <a href="https://blackkshitiz.netlify.com">
   <img width="400" src="https://i.imgur.com/g82Luex.png" />
   </a>
@@ -67,7 +67,7 @@
   
   <!-- project 4 description -->
    <a href="https://blackkshitiz.netlify.com">
-  <img  align="" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=elegant-landing-page&theme=onedark" />
+  <img  align="" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=elegant-landing-page&theme=onedar" />
   </a>
   
   
