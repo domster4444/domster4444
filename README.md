@@ -24,6 +24,10 @@
   <img width="400" src="https://i.imgur.com/qnAkGPJ.png" />
   </a>
   
+  
+  <a href="https://blackkshitiz.netlify.com">
+  <img width="400" src="https://i.imgur.com/PQuJbdU.jpg" />
+  </a>
   <!--  project 2 image -->
 
 
@@ -34,6 +38,9 @@
   
 
   <!--   project 2 description  -->
+   <a href="https://blackkshitiz.netlify.com">
+  <img  align="" src="https://github-readme-stats.vercel.app/api/pin/?username=domster4444&repo=BLACK-PORTFOLIO&theme=tokyonight" />
+   </a>
 
   
   
