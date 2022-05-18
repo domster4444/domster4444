@@ -49,8 +49,7 @@
   <img  align="" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=BLACK-PORTFOLIO&theme=onedark" />
   </a>
   
-  
-    <!--   project 3 description  -->
+
    <a href="https://blackkshitiz.netlify.com">
   <img  align="" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=quick-challenge&theme=onedark" />
   </a>
