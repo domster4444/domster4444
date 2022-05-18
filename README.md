@@ -25,9 +25,7 @@
   </a>
   
   <!--  project 2 image -->
-  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
-   
-  
+
 
   <!--   project 1 description  -->
   <a href="https://hexgrade.com">
@@ -36,10 +34,7 @@
   
 
   <!--   project 2 description  -->
-<a href="https://github.com/YuriDevAT/instagram-clone">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
-</a>
-  
+
   
   
   
