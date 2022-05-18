@@ -24,12 +24,19 @@
   <img width="400" src="https://i.imgur.com/qnAkGPJ.png" />
   </a>
   
-  
+  <!--  project 2 image -->
   <a href="https://blackkshitiz.netlify.com">
   <img width="400" src="https://i.imgur.com/U1PYzgz.png" />
   </a>
-  <!--  project 2 image -->
-
+  
+  
+  
+  <!--  project 3 image -->
+  <a href="https://blackkshitiz.netlify.com">
+  <img width="400" src="https://i.imgur.com/1qm60HQ.png" />
+  </a>
+  
+  
 
   <!--   project 1 description  -->
   <a href="https://hexgrade.com">
@@ -41,6 +48,13 @@
    <a href="https://blackkshitiz.netlify.com">
   <img  align="" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=BLACK-PORTFOLIO&theme=onedark" />
 
+  
+  
+    <!--   project 2 description  -->
+   <a href="https://blackkshitiz.netlify.com">
+  <img  align="" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=quick-challenge&theme=onedark" />
+
+  
   
   <!--   https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=BLACK-PORTFOLIO&theme=onedark  -->
   </a>
