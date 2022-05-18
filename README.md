@@ -20,8 +20,9 @@
 
 <!--  projects starts here   --> 
   <!-- project 1 image  -->
+  <a href="https://hexgrade.com">
   <img width="400" src="https://i.imgur.com/qnAkGPJ.png" />
-
+  </a>
   
   <!--  project 2 image -->
   <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
