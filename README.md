@@ -26,7 +26,7 @@
   
   
   <a href="https://blackkshitiz.netlify.com">
-  <img width="400" src="https://i.imgur.com/PQuJbdU.jpg" />
+  <img width="400" src="https://i.imgur.com/U1PYzgz.png" />
   </a>
   <!--  project 2 image -->
 
