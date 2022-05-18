@@ -18,9 +18,9 @@
 
 <p align="center">
 
-  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
+  <img width="400" height="100%" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
    <a href="https://google.com">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
+  <img height="100%" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
    </a>
   <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
 
