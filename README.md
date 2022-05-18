@@ -33,20 +33,13 @@
 
   <!--   project 1 description  -->
   <a href="https://hexgrade.com">
-  <img  align="" src="
-                                                    
-                                                    https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=portfolio-client&theme=onedark
-                                                    
-                                                    " />
+  <img  align="" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=portfolio-client&theme=onedark" />
    </a>
   
 
   <!--   project 2 description  -->
    <a href="https://blackkshitiz.netlify.com">
-  <img  align="" src="
-                                                    
-  https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=BLACK-PORTFOLIO&theme=onedark                                                  
-                                                    " />
+  <img  align="" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=BLACK-PORTFOLIO&theme=onedark" />
 
   
   <!--   https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=BLACK-PORTFOLIO&theme=onedark  -->
