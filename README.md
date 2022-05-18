@@ -29,15 +29,6 @@
   <img width="400" src="https://i.imgur.com/U1PYzgz.png" />
   </a>
   
-  
-  
-  <!--  project 3 image -->
-  <a href="https://blackkshitiz.netlify.com">
-  <img width="400" src="https://i.imgur.com/1qm60HQ.png" />
-  </a>
-  
-  
-
   <!--   project 1 description  -->
   <a href="https://hexgrade.com">
   <img  align="" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=portfolio-client&theme=onedark" />
@@ -49,7 +40,16 @@
   <img  align="" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=BLACK-PORTFOLIO&theme=onedark" />
   </a>
   
+  
+  
+  <!--  project 3 image -->
+  <a href="https://blackkshitiz.netlify.com">
+  <img width="400" src="https://i.imgur.com/1qm60HQ.png" />
+  </a>
+  
+  
 
+<!-- project 2 description -->
    <a href="https://blackkshitiz.netlify.com">
   <img  align="" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=quick-challenge&theme=onedark" />
   </a>
