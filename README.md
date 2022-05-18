@@ -20,7 +20,7 @@
 
 <!--  projects starts here   --> 
   <!-- project 1 image  -->
-  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
+  <img width="400" src="https://i.imgur.com/qnAkGPJ.png" />
 
   
   <!--  project 2 image -->
