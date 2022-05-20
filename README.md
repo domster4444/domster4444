@@ -27,7 +27,7 @@
   </a>
   
   <!--  project 2 image -->
-  <a href="https://blackkshitiz.netlify.com">
+  <a href="https://kshitizshah.netlify.com">
   <img width="400" src="https://i.imgur.com/U1PYzgz.png" />
   </a>
   
@@ -38,7 +38,7 @@
   
 
   <!--   project 2 description  -->
-   <a href="https://blackkshitiz.netlify.com">
+   <a href="https://kshitizshah.netlify.com">
   <img  align="" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=BLACK-PORTFOLIO&theme=onedark" />
   </a>
 <!--   ================================================================= -->
@@ -46,13 +46,13 @@
   
   
   <!--  project 3 image -->
-  <a href="https://blackkshitiz.netlify.com">
+  <a href="https://kshitizblogr.netlify.com">
   <img width="400" src="https://i.imgur.com/1qm60HQ.png" />
   </a>
   
  
 <!--  project 4 image  -->
-  <a href="https://blackkshitiz.netlify.com">
+  <a href="https://eleganttheme.netlify.com">
   <img width="400" src="https://i.imgur.com/g82Luex.png" />
   </a>
   
@@ -60,13 +60,13 @@
   
 
 <!-- project 3 description -->
-   <a href="https://blackkshitiz.netlify.com">
+   <a href="https://kshitizblogr.netlify.com">
   <img  align="" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=quick-challenge&theme=onedark" />
   </a>
   
   
   <!-- project 4 description -->
-   <a href="https://blackkshitiz.netlify.com">
+   <a href="https://eleganttheme.netlify.com">
   <img  align="" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=elegant-landing-page&theme=onedark" />
   </a>
   
