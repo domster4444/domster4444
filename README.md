@@ -142,9 +142,6 @@ Timezone: Nepal (GMT+5:45)
 📝 **Contacts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Gmail -kshitiz.shah@deerwalk.edu.np ]
-- [Facebook](https://www.facebook.com/ks.hitiz.735/)
-- [Instagram](https://www.instagram.com/kshitiz77777777/)
 
 
   <!-- BLOG-POST-LIST:END -->
