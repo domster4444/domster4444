@@ -27,7 +27,7 @@
   </a>
   
   <!--  project 2 image -->
-  <a href="https://kshitizshah.netlify.com">
+  <a href="#">
   <img width="400" src="https://i.imgur.com/U1PYzgz.png" />
   </a>
   
@@ -38,7 +38,7 @@
   
 
   <!--   project 2 description  -->
-   <a href="https://kshitizshah.netlify.com">
+   <a href="#">
   <img  align="" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=domster4444&repo=BLACK-PORTFOLIO&theme=onedark" />
   </a>
 <!--   ================================================================= -->
